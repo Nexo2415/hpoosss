@@ -1,0 +1,12 @@
+body{
+    background-image: url(../TareaG/img/fondo.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: 'Franklin Gothic Medium';
+    color: rgb(253, 253, 253);
+}
+p{
+    font-family: 'Times New Roman';
+    color: rgb(253, 253, 253);
+}
